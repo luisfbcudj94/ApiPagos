@@ -10,7 +10,6 @@ El contenido del archivo se dividirá en los siguientes ítems:
 - Tecnologías usadas
 - Funcionamiento de la API
 - Requisitos para levantar la API
-- Conclusiones
 
 ## Introducción
 
